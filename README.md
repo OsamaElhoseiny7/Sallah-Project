@@ -150,7 +150,9 @@ Provides detailed analysis of individual agent performance.
 
 # 👤 Author
 
-**Osama Elhoseiny**
+**Osama Elhusseini**
 
+📧 Email:  osamaelhuseini@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/osama-elhusseini-620727426
 💼 LinkedIn: https://www.linkedin.com/in/osama-elhusseini-620727426
 💻 GitHub: https://github.com/OsamaElhoseiny7
